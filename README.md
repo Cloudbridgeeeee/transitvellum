@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for TransitVellum.
 - Industry: Transportation, Smart Cities, Business Intelligence
 - Founder: Olamide Ogunleye (Founder & CEO)
 - Co-founder: Peter Nwachukwu (Co-founder & CTO)
-- Contact: olamide@transitvellum.top
+- Contact: olamide@transitvellum.space
 - Business model: Transport network subscriptions
 
 ## Stack

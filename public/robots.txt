@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://transitvellum.top/sitemap.xml
+Sitemap: https://transitvellum.space/sitemap.xml

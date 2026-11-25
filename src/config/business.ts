@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'transitvellum',
   name: 'TransitVellum',
-  domain: 'transitvellum.top',
-  email: 'olamide@transitvellum.top',
+  domain: 'transitvellum.space',
+  email: 'olamide@transitvellum.space',
   tagline: 'Understand public transport demand.',
   industries: ['Transportation', 'Smart Cities', 'Business Intelligence'],
   description:
