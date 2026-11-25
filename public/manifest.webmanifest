@@ -1,0 +1,16 @@
+{
+  "name": "TransitVellum",
+  "short_name": "TransitVellum",
+  "description": "AI transport analytics software that forecasts passenger volumes and evaluates timetable performance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#f7f7f5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

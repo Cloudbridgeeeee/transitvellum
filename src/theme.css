@@ -1,0 +1,31 @@
+/* Generated from src/config/business.ts — edit the theme there. */
+@theme {
+  --font-display: "Red Hat Display", ui-serif, Georgia, serif;
+  --font-sans: "Red Hat Text", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: "Red Hat Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  --color-canvas: #f7f7f5;
+  --color-surface: #ffffff;
+  --color-raised: #eeeeea;
+  --color-ink: #111316;
+  --color-soft: #4a4f57;
+  --color-faint: #878c94;
+  --color-line: #14181d;
+  --color-accent: #e1251b;
+  --color-accent2: #0b5cad;
+  --color-accent3: #f5b700;
+  --color-on-accent: #ffffff;
+  --color-good: #14895b;
+  --color-warn: #d99a00;
+  --color-bad: #e1251b;
+
+  --radius-card: 16px;
+  --radius-ctl: 10px;
+  --radius-btn: 10px;
+}
+
+:root {
+  color-scheme: light;
+  --display-weight: 800;
+  --display-tracking: -0.035em;
+}

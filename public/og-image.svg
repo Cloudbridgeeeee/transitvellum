@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#e1251b" stop-opacity=".35"/><stop offset="1" stop-color="#f7f7f5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f7f7f5"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e1251b"/><stop offset="1" stop-color="#0b5cad"/></linearGradient></defs><rect x="8" y="10" width="48" height="12" rx="6" fill="url(#g)"/><rect x="14" y="26" width="42" height="12" rx="6" fill="#f5b700" opacity=".85"/><rect x="8" y="42" width="34" height="12" rx="6" fill="url(#g)" opacity=".7"/></g>
+  <text x="190" y="150" font-family="Red Hat Display, Georgia, serif" font-size="54" font-weight="600" fill="#111316">TransitVellum</text>
+  <text x="80" y="330" font-family="Red Hat Display, Georgia, serif" font-size="72" font-weight="800" fill="#111316">Understand public</text>
+  <text x="80" y="414" font-family="Red Hat Display, Georgia, serif" font-size="72" font-weight="800" fill="#111316">transport demand.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#e1251b" letter-spacing="4">TRANSPORTATION  ·  SMART CITIES  ·  BUSINESS INTELLIGENCE</text>
+</svg>
